@@ -2,4 +2,5 @@ Mango - 1 CAD
 Apole - 2 CAD
 Banana - 3 CAD
 Pineapple - 8 CAD
+Cherry - 9 CAD
 
